@@ -1,0 +1,74 @@
+    1  pwd
+    2  ls
+    3  pwd
+    4  git config --list
+    5  cd ~/Desktop/
+    6  mkdir repos
+    7  mkdir repos/git-basics
+    8  cd repos/git-basics/
+    9  git init
+   10  git status
+   11  git status
+   12  git status
+   13  git add index.html
+   14  git status
+   15  git add .
+   16  git status
+   17  git commit
+   18  git status
+   19  git commit
+   20  git config --global user.email "afshinkalantari@gmail.com"
+   21  git config --global user.name "Afi83"
+   22  git commit
+   23  git status
+   24  git status
+   25  git diff
+   26  git status
+   27  git diff
+   28  git commit
+   29  git add index.html
+   30  git status
+   31  git commit
+   32  git status
+   33  git branch addfonts
+   34  git status
+   35  git checkout addfonts
+   36  git status
+   37  git checkout matster
+   38  git checkout master
+   39  git status
+   40  git checkout -b bugfix
+   41  git status
+   42  git branch
+   43  git checkout addfonts 
+   44  git branch
+   45  git status
+   46  git status
+   47  git add .
+   48  git status
+   49  git commit -m 'added info and fonts'
+   50  git checkout master
+   51  git branch
+   52  git checkout addfonts 
+   53  git status
+   54  git checkout master 
+   55  git status
+   56  git merge addfonts 
+   57  git status
+   58  git checkout bugfix 
+   59  git branch
+   60  git status
+   61  git commit -a -m 'updated css'
+   62  git status
+   63  git checkout master 
+   64  git branch
+   65  git merge bugfix 
+   66* git status[A
+   67  git remote add origin https://github.com/Afi83/first.git
+   68  git push
+   69  git push -u origin master
+   70  history
+   71  history | hist.txt
+   72  history | echo hist.txt
+   73  pwd
+   74  history >> history.txt
