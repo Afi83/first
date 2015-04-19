@@ -17,8 +17,8 @@
    17  git commit
    18  git status
    19  git commit
-   20  git config --global user.email "afshinkalantari@gmail.com"
-   21  git config --global user.name "Afi83"
+   20  git config --global user.email "-----"
+   21  git config --global user.name "-----"
    22  git commit
    23  git status
    24  git status
